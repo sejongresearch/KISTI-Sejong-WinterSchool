@@ -4,11 +4,11 @@
 
 | ID | Cource | LectureNote | Date |  Video | Etc | 
 |:---:|:---:|:---:|:---:|:---:|:---:| 
-| 1-1 | 기계학습 이론 맛보기 |  | 2020.12.22 | [Youtube](https://youtu.be/hD6L8MMnJEw) |  |
-| 1-2 | 기계학습 실습 맛보기 |  | 2020.12.22 | [Youtube](https://youtu.be/hD6L8MMnJEw) |  |
-| 1-3 | 캐글 맛보기 |   | 2020.12.22 | [Youtube](https://youtu.be/hD6L8MMnJEw) | [손글씨 분류 예측문제](https://www.kaggle.com/c/kisti-sejong-winterschool-p1) <br> [보스턴 집값 예측문제](https://www.kaggle.com/c/kisti-sejong-winterschool-p2)  |
-| 2-1 | 캐글 도전하기 I |  | 2020.12.22 | [Youtube](https://youtu.be/hD6L8MMnJEw) | [병원 개/폐업 분류 예측문제](https://www.kaggle.com/c/kisti-sejong-winterschool-p3) |
-| 2-2 | 캐글 도전하기 II |  | 2020.12.22 | [Youtube](https://youtu.be/hD6L8MMnJEw) | [아파트 경매가격 예측문제](https://www.kaggle.com/c/kisti-sejong-winterschool-p4) |
+| 1-1 | 기계학습 이론 맛보기 |  | 2020.12.22 | [Youtube](https://youtu.be/6Fv_wU3qXRw) |  |
+| 1-2 | 기계학습 실습 맛보기 |  | 2020.12.22 | [Youtube](https://youtu.be/LxxmDEgZmRo) |  |
+| 1-3 | 캐글 맛보기 |   | 2020.12.22 | [Youtube](https://youtu.be/EiQ7Sagir9o) | [손글씨 분류 예측문제](https://www.kaggle.com/c/kisti-sejong-winterschool-p1) <br> [보스턴 집값 예측문제](https://www.kaggle.com/c/kisti-sejong-winterschool-p2)  |
+| 2-1 | 캐글 도전하기 I |  | 2020.12.22 | [Youtube]() | [병원 개/폐업 분류 예측문제](https://www.kaggle.com/c/kisti-sejong-winterschool-p3) |
+| 2-2 | 캐글 도전하기 II |  | 2020.12.22 | [Youtube]() | [아파트 경매가격 예측문제](https://www.kaggle.com/c/kisti-sejong-winterschool-p4) |
 
 
 ### 추천도서
