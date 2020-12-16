@@ -11,7 +11,7 @@
 | 파트2 | 캐글 도전하기 II |  | 2020.12.22 | [Youtube]() | [아파트 경매가격 예측문제](https://www.kaggle.com/c/kisti-sejong-winterschool-p4) |
 
 
-### 기계학습/딥러닝 이론 시작하기
+### 기계학습/딥러닝 시작하기
 - [세종대학교 2020학년도 2학기 기계학습 수업](https://github.com/sejongresearch/2020.MachineLearning)
 - [세종대학교 2020학년도 1학기 인공지능 수업](https://github.com/sejongresearch/2020.Spring.AI)
 
